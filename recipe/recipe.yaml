@@ -1,5 +1,5 @@
 context:
-  version: "54"
+  version: "55"
 
 package:
   name: awkward-cpp
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/awkward-cpp/awkward_cpp-${{ version }}.tar.gz
-  sha256: c957b2804be6a7ba28b996c4cb00b744624d4b78de8461ef7788f8f8e502828e
+  sha256: e2c8be3e6a353d6d2a93d65be1900ba997765b160ea7668f9ab221de5fb8a373
 
 build:
   number: 0
